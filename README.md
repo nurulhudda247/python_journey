@@ -9,7 +9,8 @@ This repository documents my journey of learning Python. I will regularly update
 - How to perform addition, subtraction, multiplication, and division operations.
 
 ## Today, I learned: 10 Aug 2024
-- How to use `input` and `input int` for taking user input.
+- How to use `input` for taking user input.
+- Learned how to convert input to an integer using `int()`.
 - Understanding conditional logic and how to apply it.
 - Working with indexing in Python.
 - Using `if`, `elif`, and `else` conditions.

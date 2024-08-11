@@ -19,3 +19,12 @@ This repository documents my journey of learning Python. I will regularly update
 - Built an even number and odd number checker.
 - Created a minimum and maximum number checker.
 - Built a leap year checker.
+
+## Today, I learned: 11 Aug 2024
+- How to use For Loops in Python.
+- Implementing Nested For Loops.
+- Finding the maximum number in a list using a for loop.
+- Understanding and using While Loops.
+- Working with Nested While Loops.
+- Creating a Multiplication Table using loops.
+- Adding or subtracting two user-provided values.

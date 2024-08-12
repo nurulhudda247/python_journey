@@ -6,7 +6,7 @@ print(result)
 
 
 # Finding max number using for loop
-num = [5 6, 65, 48, 326]
+num = [5, 6, 65, 48, 326]
 maxNumber = num[0]
 for i in num:
     if i > maxNumber:

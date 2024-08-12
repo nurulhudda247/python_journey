@@ -28,3 +28,8 @@ This repository documents my journey of learning Python. I will regularly update
 - Working with Nested While Loops.
 - Creating a Multiplication Table using loops.
 - Adding or subtracting two user-provided values.
+
+## Today, I learned: 12 Aug 2024
+- How to work with functions in Python.
+- Created an average calculator that takes input from the user.
+- Practiced previous code.

@@ -35,12 +35,12 @@ This repository documents my journey of learning Python. I will regularly update
 - Practiced previous code.
 
 ## Day 5: 05 Sept 2024
-- Length of a String (`len` method)
-- Indexing
-- Search in String (`find` method)
-- Change anything in String (`replace` method)
-- How to remove space from start, end, both side (`strip`, `lstrip`, `rstrip` methods)
-- Case Changing (`upper`, `lower` methods)
-- Split Strings (`split` method)
-- Count method (`count` method)
-- Startswith and Endswith methods (`startswith`, `endswith` methods)
+- Determining String Length (`len` method)
+- String Indexing
+- Searching Within a String (`find` method)
+- Modifying String Content (`replace` method)
+- Trimming Whitespace from String (`strip`, `lstrip`, `rstrip` methods)
+- Changing Case in Strings (`upper`, `lower` methods)
+- Splitting Strings (`split` method)
+- Counting Substrings (`count` method)
+- Checking String Prefix and Suffix (`startswith`, `endswith` methods)

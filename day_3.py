@@ -84,3 +84,4 @@ while not terminate:
             print("The result is:", num1 - num2)
             break
     terminate = True
+    

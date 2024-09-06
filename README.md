@@ -44,3 +44,13 @@ This repository documents my journey of learning Python. I will regularly update
 - Splitting Strings (`split` method)
 - Counting Substrings (`count` method)
 - Checking String Prefix and Suffix (`startswith`, `endswith` methods)
+
+## Day 6: 06 Sept 2024
+- Using the `append` Method to Add Items
+- Inserting Items with the `insert` Method
+- Removing Items with the `remove` Method
+- Sorting Lists with the `sort` Method
+- Reversing Lists with the `reverse` Method
+- Removing Items by Index with the `pop` Method
+- Extending Lists with the `extend` Method
+- List Comprehensions for Efficient Operations

@@ -54,3 +54,9 @@ This repository documents my journey of learning Python. I will regularly update
 - Removing Items by Index with the `pop` Method
 - Extending Lists with the `extend` Method
 - List Comprehensions for Efficient Operations
+
+## Day 7: 11 Sept 2024
+- Developing a 'Guess the Number' Game Using Linear Search
+- Creating a 'Guess the Number' Game with Binary Search
+- Implementing a Prime Number Checker
+- Building a Fibonacci Number Checker
